@@ -1,1 +1,2 @@
-# MAZE2.0
+# MAZE
+https://pratikborse.itch.io/maze
